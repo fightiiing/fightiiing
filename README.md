@@ -1,4 +1,4 @@
-### Hi 👋
+### 👋
 I just finished a four month, full-time, instructor-led bootcamp on front-end web development. The focus was on React, but we also covered back-end, mainly with Java and Spring. This is after 10 years professionally working via a CMS to update, maintain, and help design webpages in my last position. 
 
 - 🔭 I’m currently working on ... expanding my React projects by introducing more advanced features. My final React project was the Superhero App that I have pinned. I'm also working on expanding my knowledge of css, like SASS, and I just finished a project using Tailwind (see the pinned RocketPage).
