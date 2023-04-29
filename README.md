@@ -3,7 +3,7 @@ I just finished a four month, full-time, instructor-led bootcamp on front-end we
 
 - 🔭 I’m currently working on ... expanding my React projects by introducing more advanced features. My final React project from the course was the Superhero App that I have pinned. I'm also working on expanding my knowledge of css, I recently finished a project using Tailwind (see the pinned RocketPage).
 - 🌱 I’m currently learning ... Next.js
-- 🤓 Fun facts: Hobbies include being a film nerd, running-goal this year is to run a half-marathon in under 2 hours, reading, Rocket League, chess, piano, and Fantasy English Premier League! COYG
+- 🤓 Fun facts: Hobbies include being a film nerd, running-goal this year is to run a half-marathon in under 2 hours, reading, Rocket League, chess, piano, and Fantasy English Premier League! COYG--I will not lose hope until mathematically City can't be caught. 
 
 Thanks for reading!
 
